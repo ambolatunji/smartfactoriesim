@@ -1,0 +1,15 @@
+{
+  "timestamp": "20250611_112502",
+  "models_trained": [
+    "isolation_forest",
+    "autoencoder",
+    "lstm_cnn"
+  ],
+  "feature_count": 126,
+  "training_data_shape": [
+    172803,
+    126
+  ],
+  "test_split_ratio": 0.3000005786936569,
+  "gpu_used": false
+}

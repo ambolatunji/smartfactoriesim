@@ -4,4 +4,9 @@
 *.ini
 *.xlsx
 *.pdf
+*.docx
 /wadi
+/OLD result
+/results
+/WaterDistributionDataset
+/
